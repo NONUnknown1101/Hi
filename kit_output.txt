@@ -1,0 +1,50 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OO@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@OoOOOOO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOOO@@@@@@@@@@@@@@@@
+@@@@@@@ooo****oooooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OooooOOOOOOooooO@@@@@@@@@@@@@@@
+@@@@@@o*************ooO@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@OooooooOOOOOOooooo@@@@@@@@@@@@@@@
+@@@@@oo*****************oO@@@@@@@@@@@@@@@@@@@@@@@@OOOOOOOOOOOO@@OOoo**ooooOOOOOoooooO@@@@@@@@@@@@@@@
+@@@@@oo**********oo********oo@@@@@@@@@@@@@@@OOOOoooOOO@@@@@@@@@OOOOooooooooOooooooooO@@@@@@@@@@@@@@@
+@@@@@@o************ooooo******ooo@@@@@@@oooo*oooooOO@@@@@@@@@@@@@@@@@OOOOOooooooooooO@@@@@@@@@@@@@@@
+@@@@@@o***************oo******************oooOO@@@@@@@@@@@@@@@@@@@@@@@Oo****.**oooooO@@@@@@@@@@@@@@@
+@@@@@@@o****************ooo*************ooOOO@@O@@OO@@@@@@@@@@@@@@@@@@@@@OOo*****ooooO@@@@@@@@@@@@@@
+@@@@@@@@o****************oo***********oooOOoo******oO@@@@@@@OOoo*********ooO@@@@@@@@@OOO@@@@@@@@@@@@
+@@@@@@@@@oo**************************oooo*....**oO@@@@@@@@OOOoooo***********oOO@@@@@@@@OO@@@@@@@@@@@
+@@@@@@@@@Oooo************************ooooooOO@@@@@@@@OOooo********..........****ooOOO@@@OOoo@@@@@@@@
+@@@@@@@@@@@ooo**********************oOOO@@@@@@@@OOOoo*****..                    .****ooOOOoooo@@@@@@
+@@@@@@@@@@@Oooooooo****************ooOOOOOOOOOOOoo***..                            .****oooooooO@@@@
+@@@@@@@@@@@@OoooOOoo***************oooOOOOOOooo***..                                 .*****oooooo@@@
+@@@@@@@@@@@@@ooooOooo**************oooooooooo***.                                      .******ooooO@
+@@@@@@@@@@@@@@ooooo****************oooooooo***.                                         ..*****oooOO
+@@@@@@@@@@@@@@@oo************..***oooooo*****.                                           ..*****oooO
+@@@@@@@@@@@@@@@@o*********....****oooo*****..                    .                       ..******ooO
+@@@@@@@@@@@@@@@@@o***.........****oo******.                                           .  ...*****ooO
+@@@@@@@@@@@@@@@@@@o*.........*****o*******.        ....... .................................******oo
+@@@@@@@@@@@@@@@@@@@**........************..      ..... ...                 .................******oO
+@@@@@@@@@@@@@@@@@@@@**.......*************..  ............            ... .................*******o@
+@@@@@@@@@@@@@@@@@@@@@*...  ...*************.............     ......  ....................********o@@
+@@@@@@@@@@@@@@@@@@@@@@*...  ..***************................ ....... ..................*********@@@
+@@@@@@@@@@@@@@@@@@@@@@@*.....*********************...................................***********@@@@
+@@@@@@@@@@@@@@@@@@@@@@@o**..**********oo**************............................*************@@@@@
+@@@@@@@@@@@@@@@@@@@@@@Ooo***********ooooooo*****************.................****************o@@@@@@
+@@@@@@@@@@@@@@@@@@@@@OOooooo*****oooooooooooo***********************************************o@@@@@@@
+@@@@@@@@@@@@@@@@@@@@OOOooooooooooooooooooooooo*********************************************@@@@@@@@@
+@@@@@@@@@@@@@@@@@@OOOOoooooooo*ooooooooooooo**********************************************@@@@@@@@@@
+@@@@@@@@@@@@@@@@@OOOOooooooooooooooooooooooo*********************************************@@@@@@@@@@@
+@@@@@@@@@@@@@@@@OOOOoooooooooooooooooooo*ooo********************************************o@@@@@@@@@@@
+@@@@@@@@@@@@@@@OOOOOoooooooooooooooooooooooo*******************************************oo@@@@@@@@@@@
+@@@@@@@@@@@@@@OOOOOooooooooooooooooooooooooooo****************************************ooo@@@@@@@@@@@
+@@@@@@@@@@@@@OOOOOooooooooooooooooooooooooooooooooo***********************************ooo@@@@@@@@@@@
+@@@@@@@@@@@OOOOOOOooooooooooooooooooooooooooooooooooooooo******************************oo@@@@@@@@@@@
+@@@@@@@@@@OOOOOOOOooooooooooooooooooooooooooooooooooooooooo****************************oo@@@@@@@@@@@
+@@@@@@@@@OOOOOOOooooooooooooooooooooooooooooooooooooooo********************************ooo@@@@@@@@@@
+@@@@@@@@OOOOOOOOoooooooooooooooooooooooooooooooooooooo******************************oooooo@@@@@@@@@@
+@@@@@@@OOOOO@OOooooooooooooooooooooooooooooooooooooooo******************************oooooo@@@@@@@@@@
+@@@@@@OOOO@@@OOooooooooooooooooooooooooooooooooooooooooo*****************************oooooO@@@@@@@@@
+@@@@@OOO@@@@OOOoooooooooooooooooooooooooooooooooooooooooo*****oo************************ooo@@@@@@@@@
+@@@@OOO@@@@@OOOooooooooooooooooooooooooooooooooooooooooo******ooo************************oo@@@@@@@@@
+@@@OO@@@@@@OOOooooooooooooooooooooooooooooooooooooooooooo*****ooo***********************ooo@@@@@@@@@
+@@@OO@@@@@@OOOooooooooooooooooooooooooooooooooooooooooooooo*****************************ooo@@@@@@@@@
+@@OOO@@@@@OOOOooooooooooooooooooooooooooooooooooooooooooooooo*oo************************ooo@@@@@@@@@
+@@OO@@@@@@OOOOoooooooooooooooooooooooooooooooooooooooooooooooooooo***********************oo@@@@@@@@@
+@OO@@@@OOOOOOOoooooooooooooooooooooooooooooooooooooooooooooooooooooo*********************oo@@@@@@@@@
+@OO@@OOOOOOOOOoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo*oo************oo@@@@@@@@@
